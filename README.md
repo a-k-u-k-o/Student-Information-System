@@ -1,2 +1,2 @@
 # Student-Information-System
-Student Information project using Java  
+Student Information System project using Java  
